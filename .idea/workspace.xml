@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d066ca61-c455-4bce-bd71-9bf54ab16c22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Delete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Insert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vidusha/OneDrive/Desktop/Gawesh/Arrays&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vidusha/OneDrive/Desktop/ITUM sem 2/Web Technology/Pastpapers&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +71,17 @@
       <workItem from="1704495014171" duration="1142000" />
       <workItem from="1704497217171" duration="519000" />
       <workItem from="1704500921476" duration="749000" />
+      <workItem from="1704502199083" duration="6639000" />
+      <workItem from="1704548788498" duration="3674000" />
+      <workItem from="1706392500680" duration="35000" />
+      <workItem from="1706392552816" duration="262000" />
+      <workItem from="1706392828546" duration="144000" />
+      <workItem from="1706481189474" duration="263000" />
+      <workItem from="1706481489098" duration="345000" />
+      <workItem from="1706481876553" duration="321000" />
+      <workItem from="1706623241665" duration="2760000" />
+      <workItem from="1707141722562" duration="600000" />
+      <workItem from="1707153201317" duration="869000" />
     </task>
     <servers />
   </component>
